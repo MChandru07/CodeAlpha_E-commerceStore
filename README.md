@@ -48,5 +48,8 @@
 python manage.py runserver 8001
 ---
 ----# CodeAlpha_E-commerceStore
-
-
+## image
+---
+<img src ="PNG File (.png)">image</img>
+<img src ="PNG File (.png)">image</img>
+---
